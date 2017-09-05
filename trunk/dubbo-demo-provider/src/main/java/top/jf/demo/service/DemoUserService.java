@@ -36,7 +36,7 @@ public class DemoUserService implements DemoUserApi {
 		result.setMessage ("系统错误");
 		result.setStatus ("Fail");
 		result.setCode ("-1");
-		
+		System.out.println ("git test...git test");
 		return result;
 	}
 	
