@@ -37,6 +37,7 @@ public class DemoUserService implements DemoUserApi {
 		result.setStatus ("Fail");
 		result.setCode ("-1");
 		System.out.println ("git test...git test");
+		System.out.println ("asdasdadasdadad");
 		return result;
 	}
 	
